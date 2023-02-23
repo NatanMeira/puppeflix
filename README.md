@@ -9,10 +9,10 @@
 
 </div>
 
-<h3 align="center">
+<h4 align="center">
 PuppeFlix é um projeto desenvolvido para fins de estudos do framework CSS TailWind, buscando criar uma landing page simples e com boa usabilidade, incluindo um formulário para captação de leads. O objetivo era compreender como o Tailwind pode facilitar a estilização de elementos HTML e colocar em prática meus estudos sobre esse framework.
 
-</h3>
+</h4>
 
 # 🎨 Layout
 
