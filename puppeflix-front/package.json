@@ -1,0 +1,13 @@
+{
+	"name": "PuppeFlix",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "Natan Meira",
+	"license": "MIT",
+	"devDependencies": {
+		"tailwindcss": "^3.2.3"
+	},
+	"scripts": {
+		"start": "tailwindcss -i ./src/assets/css/main.css -o ./dist/main.css --watch"
+	}
+}

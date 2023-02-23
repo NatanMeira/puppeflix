@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hero-banner{
+  background-image: url("/src/assets/img/hero-banner.png");
+  background-size: 100% 100%;
+}
+
+.hero-bar{
+  width: 50%;
+  height: .4rem;
+  background:  linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(90deg, #582770 1.68%, #E81764 23.04%, rgba(214, 25, 102, 0.875) 65.22%, #582770 101.68%);;
+}
+
+.description-section{
+  background: linear-gradient(180deg, #943D8A 90%, #E81764 100%)
+}
+
+.testimonials-section{
+  background: linear-gradient(180deg, #E81764 90%, #773D94 100%)
+}
