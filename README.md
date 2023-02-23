@@ -1,6 +1,6 @@
 <h1 align=center>
 
-<img src="https://raw.githubusercontent.com/NatanMeira/power-rangers-workspace/b5e551d585a24bcfae522f0d3fb7337a56b41243/power-rangers/public/assets/img/logo.svg" width="70%"/>
+<img src="https://raw.githubusercontent.com/NatanMeira/puppeflix/main/doc/img/logo.png" width="70%"/>
 </h1>
 
 <div align="center">
@@ -10,7 +10,7 @@
 </div>
 
 <h3 align="center">
-PuppeFlix é um projeto desenvolvido para fins de estudos do framework CSS **[TailWind][tailwind]**, buscando criar uma landing page simples e com boa usabilidade, incluindo um formulário para captação de leads. O objetivo era compreender como o Tailwind pode facilitar a estilização de elementos HTML e colocar em prática meus estudos sobre esse framework.
+PuppeFlix é um projeto desenvolvido para fins de estudos do framework CSS **[TailWind CSS][tailwind]**, buscando criar uma landing page simples e com boa usabilidade, incluindo um formulário para captação de leads. O objetivo era compreender como o Tailwind pode facilitar a estilização de elementos HTML e colocar em prática meus estudos sobre esse framework.
 
 </h3>
 
